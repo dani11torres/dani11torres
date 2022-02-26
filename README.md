@@ -95,7 +95,7 @@ Please make sure to update tests as appropriate.
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/Eines-Informatiques-Avancades/Project-II/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: ![GitHub forks](https://img.shields.io/github/forks/badges/shields?style=social)
 
 [forks-url]: https://github.com/Eines-Informatiques-Avancades/Project-II/network/members
 
