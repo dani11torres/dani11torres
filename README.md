@@ -19,7 +19,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="Installation">Installation</a>
+      <a href="#Installation">Installation</a>
     </li>
     <li>
       <a href="#Distribution-of-tasks">Distribution of tasks</a>
